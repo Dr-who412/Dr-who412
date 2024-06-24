@@ -20,7 +20,7 @@ Mobile Application Developer | Flutter</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/xi1G6swOWUIzrYMgun/giphy.gif?cid=ecf05e47znu83ufvpcg5e2aralv4gcut5jf5vjsmrxem7tvk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="[https://media.giphy.com/media/xi1G6swOWUIzrYMgun/giphy.gif?cid=ecf05e47znu83ufvpcg5e2aralv4gcut5jf5vjsmrxem7tvk&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/pUhIvRFUGovYaAvkMC/giphy.gif?cid=ecf05e4730bgg5uynl40uhvti35te7n2zw8h3t8zwrz04mtc&ep=v1_gifs_related&rid=giphy.gif&ct=g)"  />
 
 ###
 
@@ -35,9 +35,7 @@ Mobile Application Developer | Flutter</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
 <!--
