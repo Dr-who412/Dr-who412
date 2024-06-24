@@ -2,9 +2,11 @@
 <h2 align="left">Hi 👋! My name is Mohamed Elsherif
 Mobile Application Developer | Flutter</h2>
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/pUhIvRFUGovYaAvkMC/giphy.gif?cid=ecf05e4730bgg5uynl40uhvti35te7n2zw8h3t8zwrz04mtc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
 
