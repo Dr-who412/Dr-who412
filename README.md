@@ -5,7 +5,7 @@ Mobile Application Developer | Flutter</h2>
 
 ###
 
-<img align="right" height="150" src="[https://media.giphy.com/media/pUhIvRFUGovYaAvkMC/giphy.gif?cid=ecf05e4730bgg5uynl40uhvti35te7n2zw8h3t8zwrz04mtc&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://media.giphy.com/media/LvtxIRg1Ly96E/giphy.gif?cid=ecf05e47q2zra8652grb2jsjdsmomqxsklu7q72fx1d5yoku&ep=v1_gifs_related&rid=giphy.gif&ct=g)"  />
+
 
 ###
 
