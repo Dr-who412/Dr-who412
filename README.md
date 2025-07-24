@@ -70,20 +70,6 @@ I'm a mobile application developer with strong expertise in Flutter and Android 
 - Team Collaboration
 ---------
 
-🧠 **Core Skills**
-
-- **Languages:** Dart, Kotlin, C#
-- **Frameworks:** Flutter, Jetpack Compose
-- **Architecture:** Clean Architecture, MVVM, MVC, OOP
-- **State Management:** Bloc (Cubit), Provider, GetX, Stacked
-- **APIs:** REST, GraphQL
-- **Databases:** Hive, Sqflite, Shared Preferences
-- **Tools & Services:** Firebase, Git, GitHub, CI/CD, Jira, Agile
-- **Testing:** Unit, Widget, Integration Testing
-- **UI/UX:** Figma, Adobe UX
-- **Soft Skills:** Teamwork, Problem Solving, Time Management, Critical Thinking
-
----
 
 🚀 **What I Do**
 
