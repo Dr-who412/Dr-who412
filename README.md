@@ -1,45 +1,104 @@
+<h2 align="left">Hi 👋! I'm Mohamed Elsherif</h2>
+<h3 align="left">Mobile Application Developer | Flutter & Kotlin</h3>
 
-<h2 align="left">Hi 👋!I'm Mohamed Elsherif
-Mobile Application Developer | Flutter</h2>
+---
 
+🎯 **About Me**
 
-###
+I'm a mobile application developer with strong expertise in Flutter and Android (Kotlin). I focus on writing clean, scalable code and building high-performance apps with smooth UI/UX experiences. I'm passionate about solving real-world problems through technology and continuously improving my skills in cross-platform development and modern architecture patterns.
 
+---
+### 🛠 Tech Stack
 
-
-###
-
+#### 💻 Languages & Frameworks
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="64" alt="dart logo"  />
-  <img width="54" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="64" alt="flutter logo"  />
-  <img width="54" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="64" alt="kotlin logo"  />
-  <img width="54" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="64" alt="firebase logo"  />
-  <img width="54" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="64" alt="git logo"  />
-  <img width="54" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="64" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="48" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="48" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="48" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="48" alt="CSS3" />
 </div>
 
-###
+#### 📦 State Management
+- BLoC / Cubit
+- Provider
+- GetX
+- Stacked
 
+#### 🧱 Architecture & Patterns
+- Clean Architecture
+- MVVM / MVC
+- OOP (Object-Oriented Programming)
+
+#### 🧪 Testing
+- Unit Testing
+- Widget Testing
+- Integration Testing
+
+#### ☁️ Backend & Cloud
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="48" alt="Firebase" />
 </div>
+- Firebase Authentication
+- Firestore / Realtime Database
+- Firebase Cloud Messaging
+- Cloud Storage
+- RESTful APIs
+- GraphQL
 
-###
-<!--
-**Dr-who412/Dr-who412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠 Tools & DevOps
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="48" alt="GitHub" />
+</div>
+- Git, GitHub
+- CI/CD (Fastlane, Firebase App Distribution)
+- Jira, Agile/Scrum
+- ZegoCloud, Agora
 
-Here are some ideas to get you started:
+#### 🎨 UI/UX
+- Figma, Adobe XD
+- RTL Support (Arabic/English)
+- Responsive Design (Web & Mobile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Other Skills
+- Problem Solving
+- Data Structures & Algorithms
+- Time Management
+- Critical Thinking
+- Team Collaboration
+---------
+
+🧠 **Core Skills**
+
+- **Languages:** Dart, Kotlin, C#
+- **Frameworks:** Flutter, Jetpack Compose
+- **Architecture:** Clean Architecture, MVVM, MVC, OOP
+- **State Management:** Bloc (Cubit), Provider, GetX, Stacked
+- **APIs:** REST, GraphQL
+- **Databases:** Hive, Sqflite, Shared Preferences
+- **Tools & Services:** Firebase, Git, GitHub, CI/CD, Jira, Agile
+- **Testing:** Unit, Widget, Integration Testing
+- **UI/UX:** Figma, Adobe UX
+- **Soft Skills:** Teamwork, Problem Solving, Time Management, Critical Thinking
+
+---
+
+🚀 **What I Do**
+
+- Build cross-platform apps using Flutter
+- Develop native Android features with Kotlin
+- Improve app performance and reduce crashes
+- Implement CI/CD pipelines and scalable architectures
+- Collaborate in Agile teams with modern dev tools
+
+---
+
+🎓 **Education**
+
+**B.Sc. in Computer Science**  
+Graduated with a focus on mobile development and software engineering principles.
+
+---
+
