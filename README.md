@@ -80,6 +80,28 @@ I'm a mobile application developer with strong expertise in Flutter and Android 
 - Collaborate in Agile teams with modern dev tools
 
 ---
+---
+
+### 🎮 My Contribution Quest
+
+🧩 **Goal:** Build, Learn, and Contribute Every Day  
+⚡ **XP System:**  
+- 🟩 1 Commit = +10 XP  
+- 🔵 1 Pull Request = +50 XP  
+- 🟣 1 Issue Solved = +30 XP  
+- 🟠 1 New Project = +100 XP  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dr-who412&theme=gruvbox_duo&hide_border=true" alt="Contribution Streak" />
+  
+  <br/>
+  
+  🏆 **Level:** Master Coder  
+  <br/>💥 **Next Quest:** Build something awesome in Flutter 🚀
+</div>
+
+---
+
 
 🎓 **Education**
 
@@ -87,4 +109,6 @@ I'm a mobile application developer with strong expertise in Flutter and Android 
 Graduated with a focus on mobile development and software engineering principles.
 
 ---
+
+
 
