@@ -80,10 +80,6 @@ I'm a mobile application developer with strong expertise in Flutter and Android 
 - Collaborate in Agile teams with modern dev tools
 
 ---
----
-
-
----
 
 
 🎓 **Education**
