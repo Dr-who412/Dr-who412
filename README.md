@@ -9,65 +9,73 @@ I'm a mobile application developer with strong expertise in Flutter and Android 
 
 ---
 ### 🛠 Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
 #### 💻 Languages & Frameworks
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="48" alt="Dart" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" height="48" alt="Kotlin" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" height="48" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="48" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="48" alt="CSS3" /> -->
 </div>
 
 #### 📦 State Management
-- BLoC / Cubit
-- Provider
-- GetX
-- Stacked
+- BLoC / Cubit  
+- Provider  
+- GetX  
+- Stacked  
 
 #### 🧱 Architecture & Patterns
-- Clean Architecture
-- MVVM / MVC
-- OOP (Object-Oriented Programming)
+- Clean Architecture  
+- MVVM / MVC  
+- OOP (Object-Oriented Programming)  
 
 #### 🧪 Testing
-- Unit Testing
-- Widget Testing
-- Integration Testing
+- Unit Testing  
+- Widget Testing  
+- Integration Testing  
+
+</td>
+<td width="50%" valign="top">
 
 #### ☁️ Backend & Cloud
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="48" alt="Firebase" />
 </div>
-- Firebase Authentication
-- Firestore / Realtime Database
-- Firebase Cloud Messaging
-- Cloud Storage
-- RESTful APIs
-- GraphQL
+- Firebase Authentication  
+- Firestore / Realtime Database  
+- Firebase Cloud Messaging  
+- Cloud Storage  
+- RESTful APIs  
+- GraphQL  
 
 #### 🛠 Tools & DevOps
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="48" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="48" alt="GitHub" />
 </div>
-- Git, GitHub
-- CI/CD (Fastlane, Firebase App Distribution)
-- Jira, Agile/Scrum
-- ZegoCloud, Agora
+- Git, GitHub  
+- CI/CD (Fastlane, Firebase App Distribution)  
+- Jira, Agile/Scrum  
+- ZegoCloud, Agora  
 
 #### 🎨 UI/UX
-- Figma, Adobe XD
-- RTL Support (Arabic/English)
-- Responsive Design (Web & Mobile)
+- Figma, Adobe XD  
+- RTL Support (Arabic/English)  
+- Responsive Design (Web & Mobile)  
 
 #### 🧠 Other Skills
-- Problem Solving
-- Data Structures & Algorithms
-- Time Management
-- Critical Thinking
-- Team Collaboration
+- Problem Solving  
+- Data Structures & Algorithms  
+- Time Management  
+- Critical Thinking  
+- Team Collaboration  
+
+</td>
+</tr>
+</table>
+
 ---------
 
 
