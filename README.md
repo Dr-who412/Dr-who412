@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Mohamed Elsherif</h2>
-<h3 align="left">Mobile Developer | Flutter · iOS (Swift) · Android (Kotlin)</h3>
+<h3 align="left">Mobile Developer | Flutter · Android (Kotlin) · iOS (Swift)</h3>
 
 ---
 
