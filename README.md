@@ -7,9 +7,9 @@
   </a>&nbsp;
   <a href="mailto:mohamedwaleed412@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
+  <!-- </a>&nbsp;
   <a href="https://wa.me/201554413005">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /> -->
   </a>&nbsp;
   <a href="https://pub.dev/packages/gradient_blur">
     <img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" />
